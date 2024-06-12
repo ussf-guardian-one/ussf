@@ -33,7 +33,6 @@
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.ussf.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718038806592</updated>
       <workItem from="1718038807626" duration="10231000" />
-      <workItem from="1718165440366" duration="339000" />
+      <workItem from="1718165440366" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="org">
       <option name="closed" value="true" />
@@ -85,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718165649721</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="org">
+      <option name="closed" value="true" />
+      <created>1718165817407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718165817407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
