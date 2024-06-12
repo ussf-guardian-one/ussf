@@ -1,0 +1,398 @@
+{
+  "name": "US Space Force",
+  "image": "img/Seal_of_the_United_States_Space_Force.svg",
+  "children": [
+    {
+      "name": "Chief of Space Operations",
+      "image": "img/Office_of_the_Chief_of_Space_Operations_emblem.png",
+      "children": []
+    },
+    {
+      "name": "Space Systems Command (SSC)",
+      "image": "img/SSC.svg",
+      "children": [
+        {
+          "name": "Vandenberg SFB, California",
+          "type": "Base",
+          "image": "img/Space_Delta_30_emblem.svg",
+          "children": [
+            {
+              "name": "Space Launch Delta 30",
+              "type": "Space Launch",
+              "image": "img/Space_Delta_30_emblem.svg",
+              "children": [
+                {
+                  "name": "2nd Range Operations Squadron (2 ROPS)",
+                  "image": "img/2d_Range_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "30th Range Squadron (30 RANS)",
+                  "image": "img/45th_Range_Squadron_(originally_1_Range_Operations_Sq)_emblem.png"
+                },
+                {
+                  "name": "30th Space Communications Squadron (30 SCS)",
+                  "image": "img/30_SCS_Color_Emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Patrick SFB, Florida",
+          "type": "Base",
+          "image": "img/Space_Delta_45_emblem.svg",
+          "children": [
+            {
+              "name": "Space Launch Delta 45",
+              "type": "Space Launch",
+              "image": "img/Space_Delta_45_emblem.svg",
+              "children": [
+                {
+                  "name": "1st Range Operations Squadron (1 ROPS)",
+                  "image": "img/1ROPS.png"
+                },
+                {
+                  "name": "45th Range Squadron (45 RANS)",
+                  "image": "img/45th_Range_Squadron_(originally_1_Range_Operations_Sq)_emblem.png"
+                },
+                {
+                  "name": "45th Space Communications Squadron (45 SCS)",
+                  "image": "img/45th_Space_Communications_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Schriever SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Base Delta 1",
+              "type": "Mission Support Functions",
+              "image": "img/Space_Base_Delta_1.svg",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Peterson SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Base Delta 1",
+              "type": "Mission Support Functions",
+              "image": "img/Space_Base_Delta_1.svg",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Buckley SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_2.svg",
+          "children": [
+            {
+              "name": "Space Base Delta 2",
+              "type": "Mission Support Functions",
+              "image": "img/Space_Base_Delta_2.svg",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Los Angeles Air Force Base, El Segundo, California, U.S.",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_3.svg",
+          "children": [
+            {
+              "name": "Space Base Delta 3",
+              "type": "Mission Support Functions",
+              "image": "img/Space_Base_Delta_3.svg",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Space Operations Command (SpOC)",
+      "image": "img/SpOC.svg",
+      "children": [
+        {
+          "name": "Peterson SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 2",
+              "type": "Space Domain Awareness",
+              "image": "img/Space_Delta_2_emblem.svg",
+              "children": [
+                {
+                  "name": "15th Space Surveillance Squadron (15 SSS)",
+                  "image": "img/15th_Space_Surveillance_Squadron_emblem.png"
+                },
+                {
+                  "name": "18th Space Defense Squadron (18 SDS)",
+                  "image": "img/18th_Space_Defense_Squadron_emblem.png"
+                },
+                {
+                  "name": "20th Space Surveillance Squadron (20 SSS)",
+                  "image": "img/20th_Space_Surveillance_Squadron_emblem.png"
+                }
+              ]
+            },
+            {
+              "name": "Space Delta 3",
+              "type": "Space Electronic Warfare",
+              "image": "img/Space_Delta_3_emblem.svg",
+              "children": [
+                {
+                  "name": "3rd Combat Training Squadron (3 CTS)",
+                  "image": "img/3rd_Combat_Training_Squadron_emblem.png"
+                },
+                {
+                  "name": "4th Electromagnetic Warfare Squadron (4 EWS)",
+                  "image": "img/4th_Electromagnetic_Warfare_Squadron_emblem.png"
+                },
+                {
+                  "name": "5th Electromagnetic Warfare Squadron (5 EWS)",
+                  "image": "img/5th_Electromagnetic_Warfare_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buckley SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_2.svg",
+          "children": [
+            {
+              "name": "Space Delta 4",
+              "type": "Missile Warning",
+              "image": "img/Space_Delta_4_emblem.svg",
+              "children": [
+                {
+                  "name": "2nd Space Warning Squadron (2 SWS)",
+                  "image": "img/2nd_Space_Warning_Squadron_emblem.png"
+                },
+                {
+                  "name": "4th Space Warning Squadron (4 SWS)",
+                  "image": "img/4th_Space_Warning_Squadron_emblem.png"
+                },
+                {
+                  "name": "6th Space Warning Squadron (6 SWS)",
+                  "image": "img/6th_Space_Warning_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Schriever SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 6",
+              "type": "Cyber Operations",
+              "image": "img/Space_Delta_6_emblem.svg",
+              "children": [
+                {
+                  "name": "21st Space Operations Squadron (21 SOPS)",
+                  "image": "img/21st_Space_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "22nd Space Operations Squadron (22 SOPS)",
+                  "image": "img/22nd_Space_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "23rd Space Operations Squadron (23 SOPS)",
+                  "image": "img/23rd_Space_Operations_Squadron_emblem.png"
+                }
+              ]
+            },
+            {
+              "name": "Space Delta 8",
+              "type": "Position, Navigation, and Timing",
+              "image": "img/Space_Delta_8_emblem.svg",
+              "children": [
+                {
+                  "name": "8th Space Warning Squadron (8 SWS)",
+                  "image": "img/8th_Space_Warning_Squadron_emblem.png"
+                },
+                {
+                  "name": "19th Space Defense Squadron (19 SDS)",
+                  "image": "img/19th_Space_Defense_Squadron_emblem.png"
+                },
+                {
+                  "name": "48th Space Control Squadron (48 SCS)",
+                  "image": "img/48th_Space_Control_Squadron_emblem.png"
+                }
+              ]
+            },
+            {
+              "name": "Space Delta 9",
+              "type": "Orbital Warfare",
+              "image": "img/Space_Delta_9_emblem.svg",
+              "children": [
+                {
+                  "name": "1st Space Operations Squadron (1 SOPS)",
+                  "image": "img/1st_Space_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "2nd Space Operations Squadron (2 SOPS)",
+                  "image": "img/2nd_Space_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "3rd Space Operations Squadron (3 SOPS)",
+                  "image": "img/3rd_Space_Operations_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Space Training and Readiness Command (STARCOM)",
+      "image": "img/STARCOM.svg",
+      "children": [
+        {
+          "name": "Peterson SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 1",
+              "type": "Training",
+              "image": "img/Space_Delta_1_emblem.svg",
+              "children": [
+                {
+                  "name": "1st Delta Operations Squadron (1 DOS)",
+                  "image": "img/1st_Delta_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "319th Combat Training Squadron (319 CTS)",
+                  "image": "img/319th_Combat_Training_Squadron_emblem.png"
+                },
+                {
+                  "name": "328th Weapons Squadron (328 WPS)",
+                  "image": "img/328th_Weapons_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Peterson SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 10",
+              "type": "Doctrine and Wargaming",
+              "image": "img/Space_Delta_10_emblem.svg",
+              "children": [
+                {
+                  "name": "10th Delta Operations Squadron (10 DOS)",
+                  "image": "img/10th_Delta_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "Delta Aggressor Squadron (57 SAS)",
+                  "image": "img/57th_Space_Aggressor_Squadron_emblem.png"
+                },
+                {
+                  "name": "3rd Delta Aggressor Squadron (57 SAS)",
+                  "image": "img/57th_Space_Aggressor_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Schriever SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 11",
+              "type": "Range and Aggressor",
+              "image": "img/Space_Delta_11_emblem.svg",
+              "children": [
+                {
+                  "name": "25th Range Squadron (25 RANS)",
+                  "image": "img/25th_Space_Range_Squadron_emblem.png"
+                },
+                {
+                  "name": "57th Delta Squadron (57 DS)",
+                  "image": "img/57th_Space_Aggressor_Squadron_emblem.png"
+                },
+                {
+                  "name": "34th Range Squadron (34 RANS)",
+                  "image": "img/45th_Range_Squadron_(originally_1_Range_Operations_Sq)_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Schriever SFB, Colorado",
+          "type": "Base",
+          "image": "img/Space_Base_Delta_1.svg",
+          "children": [
+            {
+              "name": "Space Delta 12",
+              "type": "Test and Evaluation",
+              "image": "img/Space_Delta_12_emblem.svg",
+              "children": [
+                {
+                  "name": "12th Delta Operations Squadron (12 DOS)",
+                  "image": "img/12th_Delta_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "1st Test Squadron (1 TES)",
+                  "image": "img/1st_Test_and_Evaluation_Squadron_emblem.png"
+                },
+                {
+                  "name": "2nd Test Squadron (2 TES)",
+                  "image": "img/2nd_Test_and_Evaluation_Squadron_emblem.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maxwell AFB, Alabama",
+          "type": "Base",
+          "image": "img/Maxwell_AFB_logo.png",
+          "children": [
+            {
+              "name": "Space Delta 13",
+              "type": "Education",
+              "image": "img/Space_Delta_13_emblem.svg",
+              "children": [
+                {
+                  "name": "13th Delta Operations Squadron (13 DOS)",
+                  "image": "img/13th_Delta_Operations_Squadron_emblem.png"
+                },
+                {
+                  "name": "Delta Education Squadron (17 TES)",
+                  "image": "img/17th_Test_and_Evaluation_Squadron_emblem.png"
+                },
+                {
+                  "name": "National Security Space Institute (NSSI)",
+                  "image": "img/Emblem_of_the_National_Security_Space_Institute.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
