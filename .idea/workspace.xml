@@ -5,154 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16f08822-a6fb-4de6-a962-de21ba7780e6" name="Changes" comment="org">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10th_Delta_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10th_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/10th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/11th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/12th_Delta_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/12th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/13th_Delta_Operations_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/13th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/15th_CACS_emblem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/15th_Cyberspace_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/15th_Space_Surveillance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/16th_Electromagnetic_Warfare_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/17th_Test_and_Evaluation_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/18th_Space_Defense_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/19th_Space_Defense_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1ROPS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st_Delta_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st_Space_Analysis_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st_Test_and_Evaluation_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20th_Space_Surveillance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/21st_Communications_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/21st_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/22nd_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/23d Electromagnetic Warfare Squadron.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/23rd_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/25th_Space_Range_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2d_Range_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd_Space_Analysis_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd_Space_Launch_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/30_SCS_Color_Emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/30th_Operations_Support_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/319th_Combat_Training_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/328th_Weapons_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/392d_Training_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd Space Operations Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd_Combat_Training_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd_Test_and_Evaluation_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/45_Range_Squadron_(originally_1_Range_Operations_Sq).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/45th_Weather_Squadron_Patch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/460th_Space_Wing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th_Electromagnetic_Warfare_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th_Space_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th_Test_and_Evaluation_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/50th_Communications_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/527th_Space_Aggressor_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/53rd_Space_Operations_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/57th_Space_Aggressor_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th_Space_Control_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th_Space_Launch_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/614th_Combat_Training_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/61st_Space_Communications_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/62nd-Cyber-Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/645th_Cyberspace_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/64th_Cyberspace_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/65th_Cyber_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/660th_Network_Operations_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/661st_Cyber_Squadron_Emblem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/662nd_Cyber_Squadron_Emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/663rd_Cyber_Squadron_Emblem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/68_CYS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/69th_Cyberspace_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/71st_Intelligence,_Surveillance,_and_Reconnaissance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/72nd_Intelligence,_Surveillance,_and_Reconnaissance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/73rd_Intelligence,_Surveillance,_and_Reconnaissance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/74th_Intelligence,_Surveillance,_and_Reconnaissance_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/75ISRS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/76ISRS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/76th ISRS.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/7th_Space_Warning_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/8th_Combat_Training_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/98th_Space_Range_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/9th_Combat_Training_Squadron_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Acquisition_Delta_–_Resilient_Missile_Warning,_Tracking,_Defense.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Assured_Access_To_Space_Directorate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Delta_21_Space_Operations_Squadron_Emblem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Emblem_of_the_533rd_Training_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Emblem_of_the_Forrest_L._Vosler_Noncommissioned_Officer_Academy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Emblem_of_the_National_Security_Space_Institute.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/JFIOT.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Maxwell_AFB_logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Maxwell_AFB_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/NRO_Operations_Squadron_emblem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Office_of_the_Chief_of_Space_Operations_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Operations_Support_Squadron_(Provisional)_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Position,_Navigation,_and_Timing_Delta_(Provisional)_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SSC.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/STARCOM.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Seal_of_the_United_States_Space_Force.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Software_Engineering_Squadron_(Provisional)_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/SpOC.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Base_Delta_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Base_Delta_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Base_Delta_3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_10_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_10_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_11_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_11_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_12_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_12_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_13_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_13_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_15_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_15_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_18_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_18_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_1_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_1_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_23_Space_Operations_Squadron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_2_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_2_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_30_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_3_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_45_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_4_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_4_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_5_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_5_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_6_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_6_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_7_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_7_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_8_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_8_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Delta_9_emblem.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Domain_Awareness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Force_Element_to_the_National_Reconnaissance_Office_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Sensing_Directorate_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Space_Staff_Identification_Badge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/U.S._Space_Forces_Indo-Pacific_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/U.S._Space_Forces_Special_Operations_Command_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/US_Space_Forces_Southern_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Force_Squadron_Officer_School_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Forces_Central_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Forces_Europe_and_Africa_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Forces_Korea_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Forces_Space_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/United_States_Space_Forces_Strategic_and_Northern_emblem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bmC3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ussf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hhGHPkrO58YOIRXuHGZ8u4vdFk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -177,6 +30,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.ussf.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -205,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718038806592</updated>
       <workItem from="1718038807626" duration="10231000" />
+      <workItem from="1718165440366" duration="339000" />
     </task>
     <task id="LOCAL-00001" summary="org">
       <option name="closed" value="true" />
@@ -214,7 +69,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718165133525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="org">
+      <option name="closed" value="true" />
+      <created>1718165477530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718165477530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="org">
+      <option name="closed" value="true" />
+      <created>1718165649721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718165649721</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
