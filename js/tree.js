@@ -1,6 +1,6 @@
 d3.json("data/data.json").then(data => {
-    const width = 1500;
-    const height = 1000;
+    const width = 100%;
+    const height = 100%;
 
     const svg = d3.select("#tree").append("svg")
         .attr("width", width)
